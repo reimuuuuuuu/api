@@ -1,4 +1,4 @@
-module api
+module github.com/reimuuuuuuu/api
 
 go 1.18
 
